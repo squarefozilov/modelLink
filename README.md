@@ -14,8 +14,8 @@ The Financial models are complicated subject. The project stands for make financ
 * Bootstrap
 * Handlebars
 * ExpressJS
-* MongoDB
-* Mongoose
+* Mysql Database
+* Sequelize
 * Axios
 * Cheerio
 * JSON Web Tokens
