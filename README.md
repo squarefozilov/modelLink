@@ -1,7 +1,8 @@
 # ModelLink
 
 
-The Financial models are complicated subject. The project stands for make financial models understandable for almost everybody and accessible deliver right data to our users.
+The Financial models are complicated subject. The project stands for make financial models understandable for almost everybody and accessible deliver right data. The app provide users with the ability to view financial data in an organized, easily-digestible format and to generate an integrated three-statement financial model that can be used to make flexible projections
+
 
 
 ## Technologies 
