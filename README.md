@@ -43,7 +43,6 @@ git clone git@github.com:squarefozilov/modelLink.git
 ```sh
 npm install
 ```
-## Usage  
-![Homepage](./views/img/Untitled.jpg)
+## Usage    LIVE DEMO [https://still-anchorage-79783.herokuapp.com]
 * **ModelLink** application in the first page allows user view Stock Market Sector Performances
- LIVE DEMO [https://still-anchorage-79783.herokuapp.com]
+![Homepage](./views/img/Untitled.jpg)
