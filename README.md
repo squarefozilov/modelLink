@@ -45,6 +45,12 @@ npm install
 ```
 ## Usage    LIVE DEMO [https://still-anchorage-79783.herokuapp.com]
 * **ModelLink** application in the first page allows user view Stock Market Sector Performances and searching by stock market ticker symbol of the company
+*
 ![Homepage](./views/img/Untitled.jpg)
+*
 * The user can view Most Active Companies
 ![Homepage](./views/img/most_active.png)
+*
+* Showing detailed overview of the company and getting news related to the company bu clicking details button
+*
+![Homepage](./views/img/detail.png)
